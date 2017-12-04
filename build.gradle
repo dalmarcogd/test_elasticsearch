@@ -18,9 +18,9 @@ apply plugin: 'org.springframework.boot'
 apply plugin: 'io.spring.dependency-management'
 apply plugin: 'war'
 
+baseName = 'test-elacticsearch'
 group = 'dalmarcogd'
 version = '0.0.1-SNAPSHOT'
-baseName = 'test-elacticsearch'
 sourceCompatibility = 1.9
 
 repositories {
