@@ -20,7 +20,7 @@ apply plugin: 'war'
 
 group = 'dalmarcogd'
 version = '0.0.1-SNAPSHOT'
-sourceCompatibility = 9
+sourceCompatibility = 1.9
 
 repositories {
 	mavenCentral()
