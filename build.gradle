@@ -22,6 +22,7 @@ group = 'dalmarcogd'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = 1.9
 
+
 jar {
 	baseName = 'test-elacticsearch'
 	version = '0.0.1-SNAPSHOT'
