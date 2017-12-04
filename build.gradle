@@ -20,6 +20,7 @@ apply plugin: 'war'
 
 group = 'dalmarcogd'
 version = '0.0.1-SNAPSHOT'
+baseName = 'test-elacticsearch'
 sourceCompatibility = 1.9
 
 repositories {
